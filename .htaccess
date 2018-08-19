@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile IceCube1001/pl.htpasswd
+Require valid-user
